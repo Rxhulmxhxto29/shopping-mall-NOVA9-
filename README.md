@@ -10,7 +10,7 @@ A fully interactive shopping mall website with complete admin dashboard and back
 
 [![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-orange)](https://nova9-shopping-mall-4mvglsxbh-rahul-mahatos-projects-09d62ac7.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-orange)](https://nova9-shopping-mall-787trxhqk-rahul-mahatos-projects-09d62ac7.vercel.app)
 
 
 
@@ -18,7 +18,7 @@ A fully interactive shopping mall website with complete admin dashboard and back
 
 
 
-**ðŸŒ Visit Live Site:** [https://nova9-shopping-mall-4mvglsxbh-rahul-mahatos-projects-09d62ac7.vercel.app](https://nova9-shopping-mall-4mvglsxbh-rahul-mahatos-projects-09d62ac7.vercel.app)![License](https://img.shields.io/badge/License-MIT-blue)
+**ðŸŒ Visit Live Site:** [https://nova9-shopping-mall-787trxhqk-rahul-mahatos-projects-09d62ac7.vercel.app](https://nova9-shopping-mall-787trxhqk-rahul-mahatos-projects-09d62ac7.vercel.app)![License](https://img.shields.io/badge/License-MIT-blue)
 
 
 
@@ -628,7 +628,7 @@ If you like this project, please give it a â­ on GitHub!
 
 ## ðŸŽ¯ Loyalty Tiers5. **Accessible**: Semantic HTML and ARIA labels for screen readers
 
-ðŸŒ **[Visit Live Demo](https://nova9-shopping-mall-4mvglsxbh-rahul-mahatos-projects-09d62ac7.vercel.app)**
+ðŸŒ **[Visit Live Demo](https://nova9-shopping-mall-787trxhqk-rahul-mahatos-projects-09d62ac7.vercel.app)**
 
 6. **SEO Friendly**: Proper heading hierarchy and meta tags
 
@@ -754,4 +754,5 @@ Contributions, issues, and feature requests are welcome!
 **NOVA9** - A New Universe of Style âœ¨
 
 For support or inquiries, contact: info@nova9.com
+
 
