@@ -1,318 +1,634 @@
-# 🛍️ NOVA9 Shopping Mall# 🛍️ NOVA9 - A New Universe of Style
+# 🛍️ NOVA9 Shopping Mall# 🛍️ NOVA9 Shopping Mall# 🛍️ NOVA9 - A New Universe of Style
 
 
 
-A fully interactive shopping mall website with complete admin dashboard and backend integration.A fully interactive, modern, and aesthetically pleasing frontend website for a luxury shopping mall, designed to provide an exceptional customer experience.
+A fully interactive shopping mall website with complete admin dashboard and backend integration.
 
 
 
-![NOVA9 Shopping Mall](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)## ✨ Features
+[![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)](https://github.com/Rxhulmxhxto29/shopping-mall-NOVA9-)A fully interactive shopping mall website with complete admin dashboard and backend integration.A fully interactive, modern, and aesthetically pleasing frontend website for a luxury shopping mall, designed to provide an exceptional customer experience.
 
-![License](https://img.shields.io/badge/License-MIT-blue)
+[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 
-### 🏠 Home Page
+[![Live Demo](https://img.shields.io/badge/Live-Demo-orange)](https://shopping-mall-nova9.vercel.app)
 
-## ✨ Features- **Stunning Hero Section**: Video background with elegant overlay and call-to-action buttons
 
-- **Live Statistics**: Dynamic cards showing mall metrics (200+ stores, 50+ dining options, etc.)
 
-### Frontend Features- **Smooth Animations**: Eye-catching entrance animations and transitions
+## 🚀 Live Demo![NOVA9 Shopping Mall](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)## ✨ Features
 
-- **🎨 Modern UI/UX**: Beautiful light blue theme with smooth animations- **Responsive Navigation**: Sticky header with mobile hamburger menu
 
-- **🛒 Shopping Cart**: Full shopping cart functionality with real-time updates
 
-- **💬 Live Chat**: Interactive chatbot for customer support### 🏬 Shop Directory
+**🌐 Visit Live Site:** [https://shopping-mall-nova9.vercel.app](https://shopping-mall-nova9.vercel.app)![License](https://img.shields.io/badge/License-MIT-blue)
 
-- **🎫 9 Feature Modals**:- **Interactive Store Grid**: 200+ premium brand listings with images and details
 
-  - Events & Workshops- **Advanced Filtering**: Filter by categories (Fashion, Electronics, Beauty, Food, Entertainment, Lifestyle)
 
-  - Restaurant Reservations- **Real-time Search**: Instant search across store names and categories
+> **Note:** Once deployed, the link above will take you directly to the live website!### 🏠 Home Page
 
-  - Lost & Found- **Store Details**: Floor locations, categories, and quick actions
 
-  - Personal Shopper- **Favorite Stores**: Save your preferred stores to your profile
 
-  - Gift Cards- **Get Directions**: Navigate to any store within the mall
+---## ✨ Features- **Stunning Hero Section**: Video background with elegant overlay and call-to-action buttons
 
-  - Loyalty Program
 
-  - Parking Information### 🎁 Offers & Events
 
-  - Cinema Bookings- **Featured Deals**: Highlighted promotional offers with countdown timers
+## ✨ Features- **Live Statistics**: Dynamic cards showing mall metrics (200+ stores, 50+ dining options, etc.)
 
-  - Customer Feedback- **Event Calendar**: Upcoming mall events with RSVP functionality
 
-- **👤 User Authentication**: Login/Register with tab switching- **Validity Tracking**: Clear display of offer expiration dates
 
-- **📊 User Profile**: View and edit profile information- **Visual Cards**: Attractive card-based layout with images and badges
+### 🎨 Frontend Features### Frontend Features- **Smooth Animations**: Eye-catching entrance animations and transitions
 
-- **🎯 Responsive Design**: Works on all devices
+- **Modern UI/UX**: Beautiful light blue theme with smooth animations
 
-### 🎯 Customer Identity Features
+- **Shopping Cart**: Full shopping cart functionality with real-time updates- **🎨 Modern UI/UX**: Beautiful light blue theme with smooth animations- **Responsive Navigation**: Sticky header with mobile hamburger menu
+
+- **Live Chat**: Interactive chatbot for customer support
+
+- **9 Feature Modals**:- **🛒 Shopping Cart**: Full shopping cart functionality with real-time updates
+
+  - 🎪 Events & Workshops
+
+  - 🍽️ Restaurant Reservations- **💬 Live Chat**: Interactive chatbot for customer support### 🏬 Shop Directory
+
+  - 🔍 Lost & Found
+
+  - 👔 Personal Shopper- **🎫 9 Feature Modals**:- **Interactive Store Grid**: 200+ premium brand listings with images and details
+
+  - 🎁 Gift Cards
+
+  - ⭐ Loyalty Program  - Events & Workshops- **Advanced Filtering**: Filter by categories (Fashion, Electronics, Beauty, Food, Entertainment, Lifestyle)
+
+  - 🅿️ Parking Information
+
+  - 🎬 Cinema Bookings  - Restaurant Reservations- **Real-time Search**: Instant search across store names and categories
+
+  - 💬 Customer Feedback
+
+- **User Authentication**: Login/Register with tab switching  - Lost & Found- **Store Details**: Floor locations, categories, and quick actions
+
+- **User Profile**: View and edit profile information
+
+- **Responsive Design**: Works perfectly on all devices  - Personal Shopper- **Favorite Stores**: Save your preferred stores to your profile
+
+
+
+### 📊 Admin Dashboard Features  - Gift Cards- **Get Directions**: Navigate to any store within the mall
+
+- **Statistics Overview**: 
+
+  - Total customers, orders, revenue  - Loyalty Program
+
+  - Event bookings & restaurant reservations
+
+- **Customer Management**:  - Parking Information### 🎁 Offers & Events
+
+  - View all customers in a beautiful table
+
+  - **Click-to-edit cells** (name, email, phone, loyalty points)  - Cinema Bookings- **Featured Deals**: Highlighted promotional offers with countdown timers
+
+  - Real-time search by name or email
+
+  - Filter by loyalty tier (Bronze/Silver/Gold/Platinum)  - Customer Feedback- **Event Calendar**: Upcoming mall events with RSVP functionality
+
+  - Sort by 7 different criteria
+
+  - Add new customers manually- **👤 User Authentication**: Login/Register with tab switching- **Validity Tracking**: Clear display of offer expiration dates
+
+  - Delete customers with confirmation
+
+  - Export customer data to CSV- **📊 User Profile**: View and edit profile information- **Visual Cards**: Attractive card-based layout with images and badges
+
+- **Reports & Analytics**:
+
+  - Daily/Weekly/Monthly/Yearly sales reports- **🎯 Responsive Design**: Works on all devices
+
+  - Custom date range reports
+
+  - Top customers by spending### 🎯 Customer Identity Features
+
+  - Growth metrics and trends
 
 ### Admin Dashboard Features- **User Authentication**: 
 
-- **📈 Statistics Overview**: Total customers, orders, revenue, events & reservations  - Sign Up / Sign In modal system
+### 🔧 Backend Features
 
-- **👥 Customer Management**:  - Social login options (Google, Facebook)
+- **JWT Authentication**: Secure token-based authentication- **📈 Statistics Overview**: Total customers, orders, revenue, events & reservations  - Sign Up / Sign In modal system
 
-  - View all customers with detailed information  - Password validation and security
+- **SQLite Database**: Lightweight, file-based database (no installation)
 
-  - **Editable table** - Click any cell to edit (name, email, phone, loyalty points)  
+- **RESTful API**: Complete REST API with 35+ endpoints- **👥 Customer Management**:  - Social login options (Google, Facebook)
 
-  - Search by name or email- **Customer Profile**:
+- **Password Hashing**: Bcrypt for secure password storage
 
-  - Filter by loyalty tier (Bronze, Silver, Gold, Platinum)  - Personal information management
+- **CORS Enabled**: Cross-origin resource sharing configured  - View all customers with detailed information  - Password validation and security
 
-  - Sort by 7 different criteria  - Favorite stores collection
+
+
+---  - **Editable table** - Click any cell to edit (name, email, phone, loyalty points)  
+
+
+
+## 🛠️ Tech Stack  - Search by name or email- **Customer Profile**:
+
+
+
+**Frontend:**  - Filter by loyalty tier (Bronze, Silver, Gold, Platinum)  - Personal information management
+
+- HTML5, CSS3, Vanilla JavaScript
+
+- Font Awesome Icons  - Sort by 7 different criteria  - Favorite stores collection
+
+- Google Fonts (Poppins)
 
   - Add new customers manually  - Active offers tracking
 
-  - Delete customers with confirmation  - Event RSVPs
+**Backend:**
 
-  - Export customer data to CSV  - Loyalty points system
+- Node.js + Express.js  - Delete customers with confirmation  - Event RSVPs
 
-- **📊 Reports Section**:  - Shopping preferences
+- SQLite via sql.js (pure JavaScript)
 
-  - Sales reports (daily, weekly, monthly, yearly, custom)
+- JWT (jsonwebtoken)  - Export customer data to CSV  - Loyalty points system
 
-  - Analytics overview- **Personalization**:
+- bcryptjs
 
-  - Top customers by spending  - Save favorite stores
+- CORS- **📊 Reports Section**:  - Shopping preferences
+
+
+
+---  - Sales reports (daily, weekly, monthly, yearly, custom)
+
+
+
+## 📋 Prerequisites  - Analytics overview- **Personalization**:
+
+
+
+- Node.js (v14 or higher)  - Top customers by spending  - Save favorite stores
+
+- Python 3.x (for local development server)
 
   - Growth metrics  - Get personalized recommendations
 
+---
+
   - Track your activity statistics
+
+## 🚀 Quick Start
 
 ### Backend Features  - Manage notification preferences
 
-- **🔐 JWT Authentication**: Secure token-based authentication
+### 1️⃣ Clone the Repository
 
-- **🗄️ SQLite Database**: Lightweight, file-based database### 🏢 Mall Facilities
+```bash- **🔐 JWT Authentication**: Secure token-based authentication
+
+git clone https://github.com/Rxhulmxhxto29/shopping-mall-NOVA9-.git
+
+cd shopping-mall-NOVA9-- **🗄️ SQLite Database**: Lightweight, file-based database### 🏢 Mall Facilities
+
+```
 
 - **📡 RESTful API**: Complete REST API with all CRUD operations- **Comprehensive Amenities**:
 
-- **🔒 Password Hashing**: Bcrypt for secure password storage  - Valet Parking (1000+ spaces with EV charging)
+### 2️⃣ Install Backend Dependencies
 
-  - Food Court (50+ dining options)
+```bash- **🔒 Password Hashing**: Bcrypt for secure password storage  - Valet Parking (1000+ spaces with EV charging)
+
+cd backend
+
+npm install  - Food Court (50+ dining options)
+
+```
 
 ## 🚀 Tech Stack  - Kids Zone (supervised play area)
 
-  - IMAX Cinema (4DX screens)
+### 3️⃣ Configure Environment Variables
 
-**Frontend**: HTML5, CSS3, Vanilla JavaScript    - Free WiFi throughout
+Create a `.env` file in the `backend` directory:  - IMAX Cinema (4DX screens)
 
-**Backend**: Node.js, Express.js, SQLite (sql.js), JWT, bcryptjs  - Accessibility features
+```env
+
+PORT=5000**Frontend**: HTML5, CSS3, Vanilla JavaScript    - Free WiFi throughout
+
+JWT_SECRET=your-super-secret-jwt-key-change-this
+
+DB_PATH=./nova9_mall.db**Backend**: Node.js, Express.js, SQLite (sql.js), JWT, bcryptjs  - Accessibility features
+
+```
 
   - Concierge service
 
-## 📋 Prerequisites  - 24/7 Security
+### 4️⃣ Start Backend Server
 
+```bash## 📋 Prerequisites  - 24/7 Security
 
+node server.js
+
+```
+
+✅ Backend running on: `http://localhost:5000`
 
 - Node.js (v14 or higher)### 📸 Gallery & Virtual Tour
 
-- Python 3.x (for running local server)- **Photo Gallery**: High-quality images of mall interiors and attractions
+### 5️⃣ Start Frontend Server (New Terminal)
 
-- **Lightbox Viewer**: Full-screen image viewing experience
+```bash- Python 3.x (for running local server)- **Photo Gallery**: High-quality images of mall interiors and attractions
 
-## 🛠️ Installation- **Virtual Tour**: 360° mall exploration (placeholder for future integration)
+cd ..
 
-- **Category Tabs**: Switch between photos and virtual tour
+python -m http.server 8080- **Lightbox Viewer**: Full-screen image viewing experience
+
+```
+
+✅ Frontend running on: `http://localhost:8080`## 🛠️ Installation- **Virtual Tour**: 360° mall exploration (placeholder for future integration)
+
+
+
+### 6️⃣ Access the Application- **Category Tabs**: Switch between photos and virtual tour
+
+Open your browser and go to: `http://localhost:8080`
 
 ### 1. Clone the Repository
 
+---
+
 ```bash### 📞 Contact & Feedback
+
+## 🌐 Deployment
 
 git clone https://github.com/Rxhulmxhxto29/shopping-mall-NOVA9-.git- **Contact Form**: Easy-to-use form with validation
 
+Want to deploy your own version? See **[DEPLOY_NOW.md](DEPLOY_NOW.md)** for step-by-step instructions!
+
 cd shopping-mall-NOVA9-- **Mall Information**: Address, phone, email, and hours
 
-```- **Google Maps Integration**: Interactive map showing mall location
+**Recommended platforms:**
+
+- **Frontend**: Vercel (easiest, free)```- **Google Maps Integration**: Interactive map showing mall location
+
+- **Backend**: Render.com (free tier available)
 
 - **Social Media Links**: Connect on all major platforms
 
+---
+
 ### 2. Install Backend Dependencies- **Newsletter Signup**: Subscribe for exclusive offers
+
+## 📁 Project Structure
 
 ```bash
 
-cd backend## 🎨 Design Features
+```
 
-npm install
+shopping-mall-NOVA9-/cd backend## 🎨 Design Features
 
-```### Color Palette
+├── index.html              # Main HTML file (2500+ lines)
 
-- **Primary Gold**: #c9a55a (Luxury accent color)
+├── script.js               # Frontend JavaScript (2500+ lines)npm install
 
-### 3. Configure Environment Variables- **Dark Navy**: #1a1a2e (Premium dark theme)
+├── auth.js                 # Authentication API client
 
-Create a `.env` file in the `backend` directory:- **Light Cream**: #f8f5f0 (Soft background)
+├── styles.css              # Main stylesheet (4100+ lines)```### Color Palette
 
-```env- **Gradients**: Elegant gold and dark gradients throughout
+├── backend/
 
-PORT=5000
+│   ├── server.js           # Express server- **Primary Gold**: #c9a55a (Luxury accent color)
 
-JWT_SECRET=your-super-secret-jwt-key-change-this-in-production### Typography
+│   ├── package.json        # Node dependencies
 
-DB_PATH=./nova9_mall.db- **Headings**: Playfair Display (Elegant serif font)
+│   ├── nova9_mall.db       # SQLite database### 3. Configure Environment Variables- **Dark Navy**: #1a1a2e (Premium dark theme)
 
-```- **Body**: Poppins (Modern sans-serif font)
+│   ├── config/
+
+│   │   └── database.js     # Database configurationCreate a `.env` file in the `backend` directory:- **Light Cream**: #f8f5f0 (Soft background)
+
+│   └── routes/
+
+│       ├── auth.js         # Authentication routes```env- **Gradients**: Elegant gold and dark gradients throughout
+
+│       ├── user.js         # User profile routes
+
+│       ├── orders.js       # Orders routesPORT=5000
+
+│       ├── events.js       # Events routes
+
+│       ├── reservations.js # Reservations routesJWT_SECRET=your-super-secret-jwt-key-change-this-in-production### Typography
+
+│       ├── loyalty.js      # Loyalty program routes
+
+│       └── admin.js        # Admin dashboard routesDB_PATH=./nova9_mall.db- **Headings**: Playfair Display (Elegant serif font)
+
+└── README.md
+
+``````- **Body**: Poppins (Modern sans-serif font)
 
 
 
-## 🎯 Running the Application### UI/UX Elements
+---
 
-- **Smooth Transitions**: 0.3s ease transitions on all interactive elements
 
-### Start Backend Server- **Hover Effects**: Transform and shadow effects for depth
 
-```bash- **Responsive Design**: Fully optimized for desktop, tablet, and mobile
+## 🔌 API Endpoints## 🎯 Running the Application### UI/UX Elements
 
-cd backend- **Scroll Animations**: Fade-in effects as content enters viewport
 
-node server.js- **Custom Scrollbar**: Branded scrollbar with gold accent
 
-```- **Modal System**: Elegant overlays for auth and profile
-
-Backend runs on: `http://localhost:5000`
-
-## 🚀 Technologies Used
-
-### Start Frontend Server (New Terminal)
-
-```bash- **HTML5**: Semantic markup and accessibility
-
-python -m http.server 8080- **CSS3**: 
-
-```  - CSS Grid & Flexbox for layouts
-
-Frontend runs on: `http://localhost:8080`  - Custom properties (CSS variables)
-
-  - Animations and transitions
-
-### Access the Application  - Media queries for responsiveness
-
-1. Open browser: `http://localhost:8080`  
-
-2. Click **"Admin Dashboard"** button- **JavaScript**: 
-
-3. **Sign Up** to create an account or **Login**  - Vanilla JS (no frameworks required)
-
-  - DOM manipulation
-
-## 🔌 API Endpoints  - Event handling
-
-  - Intersection Observer API
-
-### Authentication  - Form validation
+### Authentication- **Smooth Transitions**: 0.3s ease transitions on all interactive elements
 
 - `POST /api/auth/register` - Register new user
 
-- `POST /api/auth/login` - User login- **Font Awesome**: Icon library for UI elements
+- `POST /api/auth/login` - User login### Start Backend Server- **Hover Effects**: Transform and shadow effects for depth
 
-- **Google Fonts**: Premium typography (Playfair Display, Poppins)
 
-### User Profile
 
-- `GET /api/user/profile` - Get user profile## 📱 Responsive Breakpoints
+### User Profile```bash- **Responsive Design**: Fully optimized for desktop, tablet, and mobile
 
-- `PUT /api/user/profile` - Update user profile
+- `GET /api/user/profile` - Get user profile
 
-- **Desktop**: 1200px and above
+- `PUT /api/user/profile` - Update user profilecd backend- **Scroll Animations**: Fade-in effects as content enters viewport
 
-### Admin (Protected)- **Laptop**: 968px - 1199px
 
-- `GET /api/admin/customers` - Get all customers- **Tablet**: 768px - 967px
 
-- `GET /api/admin/stats` - Get dashboard statistics- **Mobile**: Below 768px
+### Admin (Protected Routes)node server.js- **Custom Scrollbar**: Branded scrollbar with gold accent
+
+- `GET /api/admin/customers` - Get all customers with loyalty data
+
+- `GET /api/admin/stats` - Get dashboard statistics```- **Modal System**: Elegant overlays for auth and profile
 
 - `PUT /api/admin/update-customer/:userId` - Update customer details
 
-- `PUT /api/admin/update-points/:userId` - Update loyalty points## 🎯 Customer-Focused Features
+- `PUT /api/admin/update-points/:userId` - Update loyalty points & tierBackend runs on: `http://localhost:5000`
 
 - `DELETE /api/admin/delete-customer/:userId` - Delete customer
 
-- `GET /api/admin/report?from=&to=` - Generate sales report### Account Management
+- `GET /api/admin/report?from=&to=` - Generate sales report## 🚀 Technologies Used
 
-- `GET /api/admin/analytics` - Get analytics data1. **Sign Up**: Create account with email or social login
+- `GET /api/admin/analytics` - Get analytics data
 
-2. **Sign In**: Secure authentication with remember me option
+### Start Frontend Server (New Terminal)
 
-### Orders, Events, Reservations, Loyalty3. **Profile**: Manage personal information and preferences
+### Orders, Events, Reservations, Loyalty
 
-- Full CRUD operations for all features4. **Favorites**: Save and organize favorite stores
+Full CRUD operations for all mall features```bash- **HTML5**: Semantic markup and accessibility
 
-5. **Offers**: Track active promotions and discounts
 
-## 🎨 Admin Dashboard Usage6. **Events**: RSVP to mall events and activities
 
-7. **Loyalty**: Earn and track loyalty points
+---python -m http.server 8080- **CSS3**: 
+
+
+
+## 🎯 Admin Dashboard Usage```  - CSS Grid & Flexbox for layouts
+
+
+
+### Managing CustomersFrontend runs on: `http://localhost:8080`  - Custom properties (CSS variables)
+
+1. **View**: All customers displayed in a beautiful table
+
+2. **Edit**: Click any cell (name, email, phone, points) to edit inline  - Animations and transitions
+
+3. **Search**: Type in search box to filter by name/email
+
+4. **Filter**: Select loyalty tier from dropdown### Access the Application  - Media queries for responsiveness
+
+5. **Sort**: Choose from 7 sorting options
+
+6. **Add**: Click "Add Customer" button, fill form, submit1. Open browser: `http://localhost:8080`  
+
+7. **Delete**: Click delete icon in Actions column
+
+8. **Export**: Click "Export CSV" to download all data2. Click **"Admin Dashboard"** button- **JavaScript**: 
+
+
+
+### Viewing Reports3. **Sign Up** to create an account or **Login**  - Vanilla JS (no frameworks required)
+
+1. Switch to "Reports" tab
+
+2. Select report type (daily/weekly/monthly/yearly/custom)  - DOM manipulation
+
+3. Choose date range (for custom reports)
+
+4. Click "Generate Report"## 🔌 API Endpoints  - Event handling
+
+5. View analytics, top customers, and growth metrics
+
+  - Intersection Observer API
+
+---
+
+### Authentication  - Form validation
+
+## 🔒 Security Features
+
+- `POST /api/auth/register` - Register new user
+
+- ✅ JWT token authentication (7-day expiry)
+
+- ✅ Password hashing with bcrypt (10 rounds)- `POST /api/auth/login` - User login- **Font Awesome**: Icon library for UI elements
+
+- ✅ Protected admin routes with middleware
+
+- ✅ SQL injection prevention (parameterized queries)- **Google Fonts**: Premium typography (Playfair Display, Poppins)
+
+- ✅ CORS configuration
+
+- ✅ Input validation on frontend and backend### User Profile
+
+
+
+---- `GET /api/user/profile` - Get user profile## 📱 Responsive Breakpoints
+
+
+
+## 🎯 Loyalty Tiers- `PUT /api/user/profile` - Update user profile
+
+
+
+Points are automatically calculated based on customer activity:- **Desktop**: 1200px and above
+
+
+
+- **Bronze**: 0-999 points### Admin (Protected)- **Laptop**: 968px - 1199px
+
+- **Silver**: 1000-4999 points
+
+- **Gold**: 5000-9999 points- `GET /api/admin/customers` - Get all customers- **Tablet**: 768px - 967px
+
+- **Platinum**: 10000+ points
+
+- `GET /api/admin/stats` - Get dashboard statistics- **Mobile**: Below 768px
+
+---
+
+- `PUT /api/admin/update-customer/:userId` - Update customer details
+
+## 🧪 Testing
+
+- `PUT /api/admin/update-points/:userId` - Update loyalty points## 🎯 Customer-Focused Features
+
+Run the comprehensive test suite (Windows PowerShell):
+
+```powershell- `DELETE /api/admin/delete-customer/:userId` - Delete customer
+
+.\test_all.ps1
+
+```- `GET /api/admin/report?from=&to=` - Generate sales report### Account Management
+
+
+
+Tests include:- `GET /api/admin/analytics` - Get analytics data1. **Sign Up**: Create account with email or social login
+
+- ✅ Backend server health
+
+- ✅ Frontend server availability2. **Sign In**: Secure authentication with remember me option
+
+- ✅ User registration & login
+
+- ✅ Admin API endpoints### Orders, Events, Reservations, Loyalty3. **Profile**: Manage personal information and preferences
+
+- ✅ Database integrity
+
+- ✅ Critical files presence- Full CRUD operations for all features4. **Favorites**: Save and organize favorite stores
+
+
+
+---5. **Offers**: Track active promotions and discounts
+
+
+
+## 📸 Screenshots## 🎨 Admin Dashboard Usage6. **Events**: RSVP to mall events and activities
+
+
+
+### Home Page7. **Loyalty**: Earn and track loyalty points
+
+Beautiful hero section with video background and interactive features
 
 ### Customer Management
 
-1. **View Customers**: All customers in a table### Shopping Experience
+### Admin Dashboard
 
-2. **Edit Inline**: Click any cell to edit- **Store Locator**: Find stores by name or category
+- Customer management table with inline editing1. **View Customers**: All customers in a table### Shopping Experience
+
+- Search, filter, and sort functionality
+
+- Add/delete customers2. **Edit Inline**: Click any cell to edit- **Store Locator**: Find stores by name or category
+
+- Export to CSV
 
 3. **Search**: Filter by name/email- **Floor Maps**: Visual representation of store locations
 
-4. **Filter**: Select loyalty tier- **Directions**: Get directions to specific stores
+### Reports Section
 
-5. **Sort**: Choose sorting criteria- **Wish Lists**: Save favorite stores for quick access
+- Sales analytics4. **Filter**: Select loyalty tier- **Directions**: Get directions to specific stores
 
-6. **Add Customer**: Click "Add Customer" button- **Notifications**: Get alerts for new offers and events
+- Top customers
 
-7. **Delete**: Click delete icon
+- Growth metrics5. **Sort**: Choose sorting criteria- **Wish Lists**: Save favorite stores for quick access
 
-8. **Export**: Download as CSV### Engagement Features
 
-- **Newsletter**: Subscribe for exclusive updates
 
-### Reports- **Feedback**: Submit reviews and suggestions
+---6. **Add Customer**: Click "Add Customer" button- **Notifications**: Get alerts for new offers and events
+
+
+
+## 🤝 Contributing7. **Delete**: Click delete icon
+
+
+
+Contributions are welcome! Feel free to:8. **Export**: Download as CSV### Engagement Features
+
+1. Fork the project
+
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)- **Newsletter**: Subscribe for exclusive updates
+
+3. Commit your changes (`git commit -m 'Add AmazingFeature'`)
+
+4. Push to the branch (`git push origin feature/AmazingFeature`)### Reports- **Feedback**: Submit reviews and suggestions
+
+5. Open a Pull Request
 
 1. Switch to "Reports" tab- **Social Media**: Follow mall on all platforms
 
+---
+
 2. Select report type- **Events**: RSVP for fashion shows, carnivals, and more
+
+## 📄 License
 
 3. Choose date range (for custom)
 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 4. Click "Generate Report"## 📂 File Structure
 
+---
 
+
+
+## 👨‍💻 Author
 
 ## 🧪 Testing```
 
+**Rahul Mahato** - [@Rxhulmxhxto29](https://github.com/Rxhulmxhxto29)
+
 shopping-mall-website/
+
+---
 
 Run the test suite (Windows PowerShell):│
 
+## 🙏 Acknowledgments
+
 ```powershell├── index.html          # Main HTML file
 
-.\test_all.ps1├── styles.css          # Complete CSS styling
+- Font Awesome for icons
 
-```├── script.js           # JavaScript functionality
+- Google Fonts for Poppins font.\test_all.ps1├── styles.css          # Complete CSS styling
 
-└── README.md          # Documentation
+- sql.js for pure JavaScript SQLite
 
-## 🔒 Security Features```
+- Express.js community```├── script.js           # JavaScript functionality
 
 
 
-- JWT token authentication (7-day expiry)## 🌟 Key Highlights
+---└── README.md          # Documentation
+
+
+
+## 📞 Support## 🔒 Security Features```
+
+
+
+For support or questions:
+
+- Create an issue in this repository
+
+- Check existing issues for solutions- JWT token authentication (7-day expiry)## 🌟 Key Highlights
+
+- Review the [DEPLOY_NOW.md](DEPLOY_NOW.md) guide
 
 - Password hashing with bcrypt
 
+---
+
 - Protected admin routes1. **Fully Interactive**: Every element is clickable and provides feedback
+
+## ⭐ Show Your Support
 
 - SQL injection prevention2. **Modern Aesthetic**: Luxury gold and dark theme with elegant animations
 
+If you like this project, please give it a ⭐ on GitHub!
+
 - CORS configuration3. **Customer-Centric**: Built specifically for customer needs and journey
+
+---
 
 4. **Performance Optimized**: Lazy loading, debouncing, and efficient code
 
+**Made with ❤️ by Rahul Mahato**
+
 ## 🎯 Loyalty Tiers5. **Accessible**: Semantic HTML and ARIA labels for screen readers
+
+🌐 **[Visit Live Demo](https://shopping-mall-nova9.vercel.app)**
 
 6. **SEO Friendly**: Proper heading hierarchy and meta tags
 
