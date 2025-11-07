@@ -1,6 +1,5 @@
 {
   "version": 2,
-  "name": "nova9-shopping-mall",
   "builds": [
     {
       "src": "index.html",

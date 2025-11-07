@@ -1,4 +1,4 @@
-# 🛍️ NOVA9 Shopping Mall# 🛍️ NOVA9 Shopping Mall# 🛍️ NOVA9 - A New Universe of Style
+﻿# ðŸ›ï¸ NOVA9 Shopping Mall# ðŸ›ï¸ NOVA9 Shopping Mall# ðŸ›ï¸ NOVA9 - A New Universe of Style
 
 
 
@@ -10,57 +10,57 @@ A fully interactive shopping mall website with complete admin dashboard and back
 
 [![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-orange)](https://shopping-mall-nova9.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-orange)](https://nova9-shopping-mall-4mvglsxbh-rahul-mahatos-projects-09d62ac7.vercel.app)
 
 
 
-## 🚀 Live Demo![NOVA9 Shopping Mall](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)## ✨ Features
+## ðŸš€ Live Demo![NOVA9 Shopping Mall](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)## âœ¨ Features
 
 
 
-**🌐 Visit Live Site:** [https://shopping-mall-nova9.vercel.app](https://shopping-mall-nova9.vercel.app)![License](https://img.shields.io/badge/License-MIT-blue)
+**ðŸŒ Visit Live Site:** [https://nova9-shopping-mall-4mvglsxbh-rahul-mahatos-projects-09d62ac7.vercel.app](https://nova9-shopping-mall-4mvglsxbh-rahul-mahatos-projects-09d62ac7.vercel.app)![License](https://img.shields.io/badge/License-MIT-blue)
 
 
 
-> **Note:** Once deployed, the link above will take you directly to the live website!### 🏠 Home Page
+> **Note:** Once deployed, the link above will take you directly to the live website!### ðŸ  Home Page
 
 
 
----## ✨ Features- **Stunning Hero Section**: Video background with elegant overlay and call-to-action buttons
+---## âœ¨ Features- **Stunning Hero Section**: Video background with elegant overlay and call-to-action buttons
 
 
 
-## ✨ Features- **Live Statistics**: Dynamic cards showing mall metrics (200+ stores, 50+ dining options, etc.)
+## âœ¨ Features- **Live Statistics**: Dynamic cards showing mall metrics (200+ stores, 50+ dining options, etc.)
 
 
 
-### 🎨 Frontend Features### Frontend Features- **Smooth Animations**: Eye-catching entrance animations and transitions
+### ðŸŽ¨ Frontend Features### Frontend Features- **Smooth Animations**: Eye-catching entrance animations and transitions
 
 - **Modern UI/UX**: Beautiful light blue theme with smooth animations
 
-- **Shopping Cart**: Full shopping cart functionality with real-time updates- **🎨 Modern UI/UX**: Beautiful light blue theme with smooth animations- **Responsive Navigation**: Sticky header with mobile hamburger menu
+- **Shopping Cart**: Full shopping cart functionality with real-time updates- **ðŸŽ¨ Modern UI/UX**: Beautiful light blue theme with smooth animations- **Responsive Navigation**: Sticky header with mobile hamburger menu
 
 - **Live Chat**: Interactive chatbot for customer support
 
-- **9 Feature Modals**:- **🛒 Shopping Cart**: Full shopping cart functionality with real-time updates
+- **9 Feature Modals**:- **ðŸ›’ Shopping Cart**: Full shopping cart functionality with real-time updates
 
-  - 🎪 Events & Workshops
+  - ðŸŽª Events & Workshops
 
-  - 🍽️ Restaurant Reservations- **💬 Live Chat**: Interactive chatbot for customer support### 🏬 Shop Directory
+  - ðŸ½ï¸ Restaurant Reservations- **ðŸ’¬ Live Chat**: Interactive chatbot for customer support### ðŸ¬ Shop Directory
 
-  - 🔍 Lost & Found
+  - ðŸ” Lost & Found
 
-  - 👔 Personal Shopper- **🎫 9 Feature Modals**:- **Interactive Store Grid**: 200+ premium brand listings with images and details
+  - ðŸ‘” Personal Shopper- **ðŸŽ« 9 Feature Modals**:- **Interactive Store Grid**: 200+ premium brand listings with images and details
 
-  - 🎁 Gift Cards
+  - ðŸŽ Gift Cards
 
-  - ⭐ Loyalty Program  - Events & Workshops- **Advanced Filtering**: Filter by categories (Fashion, Electronics, Beauty, Food, Entertainment, Lifestyle)
+  - â­ Loyalty Program  - Events & Workshops- **Advanced Filtering**: Filter by categories (Fashion, Electronics, Beauty, Food, Entertainment, Lifestyle)
 
-  - 🅿️ Parking Information
+  - ðŸ…¿ï¸ Parking Information
 
-  - 🎬 Cinema Bookings  - Restaurant Reservations- **Real-time Search**: Instant search across store names and categories
+  - ðŸŽ¬ Cinema Bookings  - Restaurant Reservations- **Real-time Search**: Instant search across store names and categories
 
-  - 💬 Customer Feedback
+  - ðŸ’¬ Customer Feedback
 
 - **User Authentication**: Login/Register with tab switching  - Lost & Found- **Store Details**: Floor locations, categories, and quick actions
 
@@ -70,7 +70,7 @@ A fully interactive shopping mall website with complete admin dashboard and back
 
 
 
-### 📊 Admin Dashboard Features  - Gift Cards- **Get Directions**: Navigate to any store within the mall
+### ðŸ“Š Admin Dashboard Features  - Gift Cards- **Get Directions**: Navigate to any store within the mall
 
 - **Statistics Overview**: 
 
@@ -78,7 +78,7 @@ A fully interactive shopping mall website with complete admin dashboard and back
 
   - Event bookings & restaurant reservations
 
-- **Customer Management**:  - Parking Information### 🎁 Offers & Events
+- **Customer Management**:  - Parking Information### ðŸŽ Offers & Events
 
   - View all customers in a beautiful table
 
@@ -90,31 +90,31 @@ A fully interactive shopping mall website with complete admin dashboard and back
 
   - Sort by 7 different criteria
 
-  - Add new customers manually- **👤 User Authentication**: Login/Register with tab switching- **Validity Tracking**: Clear display of offer expiration dates
+  - Add new customers manually- **ðŸ‘¤ User Authentication**: Login/Register with tab switching- **Validity Tracking**: Clear display of offer expiration dates
 
   - Delete customers with confirmation
 
-  - Export customer data to CSV- **📊 User Profile**: View and edit profile information- **Visual Cards**: Attractive card-based layout with images and badges
+  - Export customer data to CSV- **ðŸ“Š User Profile**: View and edit profile information- **Visual Cards**: Attractive card-based layout with images and badges
 
 - **Reports & Analytics**:
 
-  - Daily/Weekly/Monthly/Yearly sales reports- **🎯 Responsive Design**: Works on all devices
+  - Daily/Weekly/Monthly/Yearly sales reports- **ðŸŽ¯ Responsive Design**: Works on all devices
 
   - Custom date range reports
 
-  - Top customers by spending### 🎯 Customer Identity Features
+  - Top customers by spending### ðŸŽ¯ Customer Identity Features
 
   - Growth metrics and trends
 
 ### Admin Dashboard Features- **User Authentication**: 
 
-### 🔧 Backend Features
+### ðŸ”§ Backend Features
 
-- **JWT Authentication**: Secure token-based authentication- **📈 Statistics Overview**: Total customers, orders, revenue, events & reservations  - Sign Up / Sign In modal system
+- **JWT Authentication**: Secure token-based authentication- **ðŸ“ˆ Statistics Overview**: Total customers, orders, revenue, events & reservations  - Sign Up / Sign In modal system
 
 - **SQLite Database**: Lightweight, file-based database (no installation)
 
-- **RESTful API**: Complete REST API with 35+ endpoints- **👥 Customer Management**:  - Social login options (Google, Facebook)
+- **RESTful API**: Complete REST API with 35+ endpoints- **ðŸ‘¥ Customer Management**:  - Social login options (Google, Facebook)
 
 - **Password Hashing**: Bcrypt for secure password storage
 
@@ -126,7 +126,7 @@ A fully interactive shopping mall website with complete admin dashboard and back
 
 
 
-## 🛠️ Tech Stack  - Search by name or email- **Customer Profile**:
+## ðŸ› ï¸ Tech Stack  - Search by name or email- **Customer Profile**:
 
 
 
@@ -150,7 +150,7 @@ A fully interactive shopping mall website with complete admin dashboard and back
 
 - bcryptjs
 
-- CORS- **📊 Reports Section**:  - Shopping preferences
+- CORS- **ðŸ“Š Reports Section**:  - Shopping preferences
 
 
 
@@ -158,7 +158,7 @@ A fully interactive shopping mall website with complete admin dashboard and back
 
 
 
-## 📋 Prerequisites  - Analytics overview- **Personalization**:
+## ðŸ“‹ Prerequisites  - Analytics overview- **Personalization**:
 
 
 
@@ -172,25 +172,25 @@ A fully interactive shopping mall website with complete admin dashboard and back
 
   - Track your activity statistics
 
-## 🚀 Quick Start
+## ðŸš€ Quick Start
 
 ### Backend Features  - Manage notification preferences
 
-### 1️⃣ Clone the Repository
+### 1ï¸âƒ£ Clone the Repository
 
-```bash- **🔐 JWT Authentication**: Secure token-based authentication
+```bash- **ðŸ” JWT Authentication**: Secure token-based authentication
 
 git clone https://github.com/Rxhulmxhxto29/shopping-mall-NOVA9-.git
 
-cd shopping-mall-NOVA9-- **🗄️ SQLite Database**: Lightweight, file-based database### 🏢 Mall Facilities
+cd shopping-mall-NOVA9-- **ðŸ—„ï¸ SQLite Database**: Lightweight, file-based database### ðŸ¢ Mall Facilities
 
 ```
 
-- **📡 RESTful API**: Complete REST API with all CRUD operations- **Comprehensive Amenities**:
+- **ðŸ“¡ RESTful API**: Complete REST API with all CRUD operations- **Comprehensive Amenities**:
 
-### 2️⃣ Install Backend Dependencies
+### 2ï¸âƒ£ Install Backend Dependencies
 
-```bash- **🔒 Password Hashing**: Bcrypt for secure password storage  - Valet Parking (1000+ spaces with EV charging)
+```bash- **ðŸ”’ Password Hashing**: Bcrypt for secure password storage  - Valet Parking (1000+ spaces with EV charging)
 
 cd backend
 
@@ -198,9 +198,9 @@ npm install  - Food Court (50+ dining options)
 
 ```
 
-## 🚀 Tech Stack  - Kids Zone (supervised play area)
+## ðŸš€ Tech Stack  - Kids Zone (supervised play area)
 
-### 3️⃣ Configure Environment Variables
+### 3ï¸âƒ£ Configure Environment Variables
 
 Create a `.env` file in the `backend` directory:  - IMAX Cinema (4DX screens)
 
@@ -216,19 +216,19 @@ DB_PATH=./nova9_mall.db**Backend**: Node.js, Express.js, SQLite (sql.js), JWT, b
 
   - Concierge service
 
-### 4️⃣ Start Backend Server
+### 4ï¸âƒ£ Start Backend Server
 
-```bash## 📋 Prerequisites  - 24/7 Security
+```bash## ðŸ“‹ Prerequisites  - 24/7 Security
 
 node server.js
 
 ```
 
-✅ Backend running on: `http://localhost:5000`
+âœ… Backend running on: `http://localhost:5000`
 
-- Node.js (v14 or higher)### 📸 Gallery & Virtual Tour
+- Node.js (v14 or higher)### ðŸ“¸ Gallery & Virtual Tour
 
-### 5️⃣ Start Frontend Server (New Terminal)
+### 5ï¸âƒ£ Start Frontend Server (New Terminal)
 
 ```bash- Python 3.x (for running local server)- **Photo Gallery**: High-quality images of mall interiors and attractions
 
@@ -238,11 +238,11 @@ python -m http.server 8080- **Lightbox Viewer**: Full-screen image viewing exper
 
 ```
 
-✅ Frontend running on: `http://localhost:8080`## 🛠️ Installation- **Virtual Tour**: 360° mall exploration (placeholder for future integration)
+âœ… Frontend running on: `http://localhost:8080`## ðŸ› ï¸ Installation- **Virtual Tour**: 360Â° mall exploration (placeholder for future integration)
 
 
 
-### 6️⃣ Access the Application- **Category Tabs**: Switch between photos and virtual tour
+### 6ï¸âƒ£ Access the Application- **Category Tabs**: Switch between photos and virtual tour
 
 Open your browser and go to: `http://localhost:8080`
 
@@ -250,9 +250,9 @@ Open your browser and go to: `http://localhost:8080`
 
 ---
 
-```bash### 📞 Contact & Feedback
+```bash### ðŸ“ž Contact & Feedback
 
-## 🌐 Deployment
+## ðŸŒ Deployment
 
 git clone https://github.com/Rxhulmxhxto29/shopping-mall-NOVA9-.git- **Contact Form**: Easy-to-use form with validation
 
@@ -272,51 +272,51 @@ cd shopping-mall-NOVA9-- **Mall Information**: Address, phone, email, and hours
 
 ### 2. Install Backend Dependencies- **Newsletter Signup**: Subscribe for exclusive offers
 
-## 📁 Project Structure
+## ðŸ“ Project Structure
 
 ```bash
 
 ```
 
-shopping-mall-NOVA9-/cd backend## 🎨 Design Features
+shopping-mall-NOVA9-/cd backend## ðŸŽ¨ Design Features
 
-├── index.html              # Main HTML file (2500+ lines)
+â”œâ”€â”€ index.html              # Main HTML file (2500+ lines)
 
-├── script.js               # Frontend JavaScript (2500+ lines)npm install
+â”œâ”€â”€ script.js               # Frontend JavaScript (2500+ lines)npm install
 
-├── auth.js                 # Authentication API client
+â”œâ”€â”€ auth.js                 # Authentication API client
 
-├── styles.css              # Main stylesheet (4100+ lines)```### Color Palette
+â”œâ”€â”€ styles.css              # Main stylesheet (4100+ lines)```### Color Palette
 
-├── backend/
+â”œâ”€â”€ backend/
 
-│   ├── server.js           # Express server- **Primary Gold**: #c9a55a (Luxury accent color)
+â”‚   â”œâ”€â”€ server.js           # Express server- **Primary Gold**: #c9a55a (Luxury accent color)
 
-│   ├── package.json        # Node dependencies
+â”‚   â”œâ”€â”€ package.json        # Node dependencies
 
-│   ├── nova9_mall.db       # SQLite database### 3. Configure Environment Variables- **Dark Navy**: #1a1a2e (Premium dark theme)
+â”‚   â”œâ”€â”€ nova9_mall.db       # SQLite database### 3. Configure Environment Variables- **Dark Navy**: #1a1a2e (Premium dark theme)
 
-│   ├── config/
+â”‚   â”œâ”€â”€ config/
 
-│   │   └── database.js     # Database configurationCreate a `.env` file in the `backend` directory:- **Light Cream**: #f8f5f0 (Soft background)
+â”‚   â”‚   â””â”€â”€ database.js     # Database configurationCreate a `.env` file in the `backend` directory:- **Light Cream**: #f8f5f0 (Soft background)
 
-│   └── routes/
+â”‚   â””â”€â”€ routes/
 
-│       ├── auth.js         # Authentication routes```env- **Gradients**: Elegant gold and dark gradients throughout
+â”‚       â”œâ”€â”€ auth.js         # Authentication routes```env- **Gradients**: Elegant gold and dark gradients throughout
 
-│       ├── user.js         # User profile routes
+â”‚       â”œâ”€â”€ user.js         # User profile routes
 
-│       ├── orders.js       # Orders routesPORT=5000
+â”‚       â”œâ”€â”€ orders.js       # Orders routesPORT=5000
 
-│       ├── events.js       # Events routes
+â”‚       â”œâ”€â”€ events.js       # Events routes
 
-│       ├── reservations.js # Reservations routesJWT_SECRET=your-super-secret-jwt-key-change-this-in-production### Typography
+â”‚       â”œâ”€â”€ reservations.js # Reservations routesJWT_SECRET=your-super-secret-jwt-key-change-this-in-production### Typography
 
-│       ├── loyalty.js      # Loyalty program routes
+â”‚       â”œâ”€â”€ loyalty.js      # Loyalty program routes
 
-│       └── admin.js        # Admin dashboard routesDB_PATH=./nova9_mall.db- **Headings**: Playfair Display (Elegant serif font)
+â”‚       â””â”€â”€ admin.js        # Admin dashboard routesDB_PATH=./nova9_mall.db- **Headings**: Playfair Display (Elegant serif font)
 
-└── README.md
+â””â”€â”€ README.md
 
 ``````- **Body**: Poppins (Modern sans-serif font)
 
@@ -326,7 +326,7 @@ shopping-mall-NOVA9-/cd backend## 🎨 Design Features
 
 
 
-## 🔌 API Endpoints## 🎯 Running the Application### UI/UX Elements
+## ðŸ”Œ API Endpoints## ðŸŽ¯ Running the Application### UI/UX Elements
 
 
 
@@ -358,7 +358,7 @@ shopping-mall-NOVA9-/cd backend## 🎨 Design Features
 
 - `DELETE /api/admin/delete-customer/:userId` - Delete customer
 
-- `GET /api/admin/report?from=&to=` - Generate sales report## 🚀 Technologies Used
+- `GET /api/admin/report?from=&to=` - Generate sales report## ðŸš€ Technologies Used
 
 - `GET /api/admin/analytics` - Get analytics data
 
@@ -374,7 +374,7 @@ Full CRUD operations for all mall features```bash- **HTML5**: Semantic markup an
 
 
 
-## 🎯 Admin Dashboard Usage```  - CSS Grid & Flexbox for layouts
+## ðŸŽ¯ Admin Dashboard Usage```  - CSS Grid & Flexbox for layouts
 
 
 
@@ -406,7 +406,7 @@ Full CRUD operations for all mall features```bash- **HTML5**: Semantic markup an
 
 3. Choose date range (for custom reports)
 
-4. Click "Generate Report"## 🔌 API Endpoints  - Event handling
+4. Click "Generate Report"## ðŸ”Œ API Endpoints  - Event handling
 
 5. View analytics, top customers, and growth metrics
 
@@ -416,29 +416,29 @@ Full CRUD operations for all mall features```bash- **HTML5**: Semantic markup an
 
 ### Authentication  - Form validation
 
-## 🔒 Security Features
+## ðŸ”’ Security Features
 
 - `POST /api/auth/register` - Register new user
 
-- ✅ JWT token authentication (7-day expiry)
+- âœ… JWT token authentication (7-day expiry)
 
-- ✅ Password hashing with bcrypt (10 rounds)- `POST /api/auth/login` - User login- **Font Awesome**: Icon library for UI elements
+- âœ… Password hashing with bcrypt (10 rounds)- `POST /api/auth/login` - User login- **Font Awesome**: Icon library for UI elements
 
-- ✅ Protected admin routes with middleware
+- âœ… Protected admin routes with middleware
 
-- ✅ SQL injection prevention (parameterized queries)- **Google Fonts**: Premium typography (Playfair Display, Poppins)
+- âœ… SQL injection prevention (parameterized queries)- **Google Fonts**: Premium typography (Playfair Display, Poppins)
 
-- ✅ CORS configuration
+- âœ… CORS configuration
 
-- ✅ Input validation on frontend and backend### User Profile
-
-
-
----- `GET /api/user/profile` - Get user profile## 📱 Responsive Breakpoints
+- âœ… Input validation on frontend and backend### User Profile
 
 
 
-## 🎯 Loyalty Tiers- `PUT /api/user/profile` - Update user profile
+---- `GET /api/user/profile` - Get user profile## ðŸ“± Responsive Breakpoints
+
+
+
+## ðŸŽ¯ Loyalty Tiers- `PUT /api/user/profile` - Update user profile
 
 
 
@@ -460,9 +460,9 @@ Points are automatically calculated based on customer activity:- **Desktop**: 12
 
 - `PUT /api/admin/update-customer/:userId` - Update customer details
 
-## 🧪 Testing
+## ðŸ§ª Testing
 
-- `PUT /api/admin/update-points/:userId` - Update loyalty points## 🎯 Customer-Focused Features
+- `PUT /api/admin/update-points/:userId` - Update loyalty points## ðŸŽ¯ Customer-Focused Features
 
 Run the comprehensive test suite (Windows PowerShell):
 
@@ -476,17 +476,17 @@ Run the comprehensive test suite (Windows PowerShell):
 
 Tests include:- `GET /api/admin/analytics` - Get analytics data1. **Sign Up**: Create account with email or social login
 
-- ✅ Backend server health
+- âœ… Backend server health
 
-- ✅ Frontend server availability2. **Sign In**: Secure authentication with remember me option
+- âœ… Frontend server availability2. **Sign In**: Secure authentication with remember me option
 
-- ✅ User registration & login
+- âœ… User registration & login
 
-- ✅ Admin API endpoints### Orders, Events, Reservations, Loyalty3. **Profile**: Manage personal information and preferences
+- âœ… Admin API endpoints### Orders, Events, Reservations, Loyalty3. **Profile**: Manage personal information and preferences
 
-- ✅ Database integrity
+- âœ… Database integrity
 
-- ✅ Critical files presence- Full CRUD operations for all features4. **Favorites**: Save and organize favorite stores
+- âœ… Critical files presence- Full CRUD operations for all features4. **Favorites**: Save and organize favorite stores
 
 
 
@@ -494,7 +494,7 @@ Tests include:- `GET /api/admin/analytics` - Get analytics data1. **Sign Up**: C
 
 
 
-## 📸 Screenshots## 🎨 Admin Dashboard Usage6. **Events**: RSVP to mall events and activities
+## ðŸ“¸ Screenshots## ðŸŽ¨ Admin Dashboard Usage6. **Events**: RSVP to mall events and activities
 
 
 
@@ -530,7 +530,7 @@ Beautiful hero section with video background and interactive features
 
 
 
-## 🤝 Contributing7. **Delete**: Click delete icon
+## ðŸ¤ Contributing7. **Delete**: Click delete icon
 
 
 
@@ -552,21 +552,21 @@ Contributions are welcome! Feel free to:8. **Export**: Download as CSV### Engage
 
 2. Select report type- **Events**: RSVP for fashion shows, carnivals, and more
 
-## 📄 License
+## ðŸ“„ License
 
 3. Choose date range (for custom)
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-4. Click "Generate Report"## 📂 File Structure
+4. Click "Generate Report"## ðŸ“‚ File Structure
 
 ---
 
 
 
-## 👨‍💻 Author
+## ðŸ‘¨â€ðŸ’» Author
 
-## 🧪 Testing```
+## ðŸ§ª Testing```
 
 **Rahul Mahato** - [@Rxhulmxhxto29](https://github.com/Rxhulmxhxto29)
 
@@ -574,27 +574,27 @@ shopping-mall-website/
 
 ---
 
-Run the test suite (Windows PowerShell):│
+Run the test suite (Windows PowerShell):â”‚
 
-## 🙏 Acknowledgments
+## ðŸ™ Acknowledgments
 
-```powershell├── index.html          # Main HTML file
+```powershellâ”œâ”€â”€ index.html          # Main HTML file
 
 - Font Awesome for icons
 
-- Google Fonts for Poppins font.\test_all.ps1├── styles.css          # Complete CSS styling
+- Google Fonts for Poppins font.\test_all.ps1â”œâ”€â”€ styles.css          # Complete CSS styling
 
 - sql.js for pure JavaScript SQLite
 
-- Express.js community```├── script.js           # JavaScript functionality
+- Express.js community```â”œâ”€â”€ script.js           # JavaScript functionality
 
 
 
----└── README.md          # Documentation
+---â””â”€â”€ README.md          # Documentation
 
 
 
-## 📞 Support## 🔒 Security Features```
+## ðŸ“ž Support## ðŸ”’ Security Features```
 
 
 
@@ -602,7 +602,7 @@ For support or questions:
 
 - Create an issue in this repository
 
-- Check existing issues for solutions- JWT token authentication (7-day expiry)## 🌟 Key Highlights
+- Check existing issues for solutions- JWT token authentication (7-day expiry)## ðŸŒŸ Key Highlights
 
 - Review the [DEPLOY_NOW.md](DEPLOY_NOW.md) guide
 
@@ -612,11 +612,11 @@ For support or questions:
 
 - Protected admin routes1. **Fully Interactive**: Every element is clickable and provides feedback
 
-## ⭐ Show Your Support
+## â­ Show Your Support
 
 - SQL injection prevention2. **Modern Aesthetic**: Luxury gold and dark theme with elegant animations
 
-If you like this project, please give it a ⭐ on GitHub!
+If you like this project, please give it a â­ on GitHub!
 
 - CORS configuration3. **Customer-Centric**: Built specifically for customer needs and journey
 
@@ -624,11 +624,11 @@ If you like this project, please give it a ⭐ on GitHub!
 
 4. **Performance Optimized**: Lazy loading, debouncing, and efficient code
 
-**Made with ❤️ by Rahul Mahato**
+**Made with â¤ï¸ by Rahul Mahato**
 
-## 🎯 Loyalty Tiers5. **Accessible**: Semantic HTML and ARIA labels for screen readers
+## ðŸŽ¯ Loyalty Tiers5. **Accessible**: Semantic HTML and ARIA labels for screen readers
 
-🌐 **[Visit Live Demo](https://shopping-mall-nova9.vercel.app)**
+ðŸŒ **[Visit Live Demo](https://nova9-shopping-mall-4mvglsxbh-rahul-mahatos-projects-09d62ac7.vercel.app)**
 
 6. **SEO Friendly**: Proper heading hierarchy and meta tags
 
@@ -636,13 +636,13 @@ If you like this project, please give it a ⭐ on GitHub!
 
 - **Silver**: 1000-4999 points
 
-- **Gold**: 5000-9999 points## 🎨 Customization
+- **Gold**: 5000-9999 points## ðŸŽ¨ Customization
 
 - **Platinum**: 10000+ points
 
 ### Colors
 
-## 📁 Project StructureUpdate CSS variables in `styles.css`:
+## ðŸ“ Project StructureUpdate CSS variables in `styles.css`:
 
 ```css
 
@@ -650,57 +650,57 @@ If you like this project, please give it a ⭐ on GitHub!
 
 shopping-mall-NOVA9-/    --primary-gold: #c9a55a;
 
-├── index.html              # Main HTML with admin dashboard    --primary-dark: #1a1a2e;
+â”œâ”€â”€ index.html              # Main HTML with admin dashboard    --primary-dark: #1a1a2e;
 
-├── script.js               # Frontend JavaScript (2500+ lines)    --primary-light: #f8f5f0;
+â”œâ”€â”€ script.js               # Frontend JavaScript (2500+ lines)    --primary-light: #f8f5f0;
 
-├── auth.js                 # Authentication client    /* ... more colors */
+â”œâ”€â”€ auth.js                 # Authentication client    /* ... more colors */
 
-├── styles.css              # Stylesheet (4100+ lines)}
+â”œâ”€â”€ styles.css              # Stylesheet (4100+ lines)}
 
-├── backend/```
+â”œâ”€â”€ backend/```
 
-│   ├── server.js           # Express server
+â”‚   â”œâ”€â”€ server.js           # Express server
 
-│   ├── package.json        # Dependencies### Content
+â”‚   â”œâ”€â”€ package.json        # Dependencies### Content
 
-│   ├── nova9_mall.db       # SQLite database- Edit store listings in the HTML
+â”‚   â”œâ”€â”€ nova9_mall.db       # SQLite database- Edit store listings in the HTML
 
-│   ├── config/- Update images by changing `src` attributes
+â”‚   â”œâ”€â”€ config/- Update images by changing `src` attributes
 
-│   │   └── database.js     # DB configuration- Modify text content directly in HTML
+â”‚   â”‚   â””â”€â”€ database.js     # DB configuration- Modify text content directly in HTML
 
-│   └── routes/- Add/remove sections as needed
+â”‚   â””â”€â”€ routes/- Add/remove sections as needed
 
-│       ├── auth.js
+â”‚       â”œâ”€â”€ auth.js
 
-│       ├── user.js### Functionality
+â”‚       â”œâ”€â”€ user.js### Functionality
 
-│       ├── orders.js- Customize JavaScript behaviors in `script.js`
+â”‚       â”œâ”€â”€ orders.js- Customize JavaScript behaviors in `script.js`
 
-│       ├── events.js- Add API integrations for real data
+â”‚       â”œâ”€â”€ events.js- Add API integrations for real data
 
-│       ├── reservations.js- Connect to backend services
+â”‚       â”œâ”€â”€ reservations.js- Connect to backend services
 
-│       ├── loyalty.js- Implement payment gateways
+â”‚       â”œâ”€â”€ loyalty.js- Implement payment gateways
 
-│       └── admin.js
+â”‚       â””â”€â”€ admin.js
 
-└── README.md## 🔧 Future Enhancements
+â””â”€â”€ README.md## ðŸ”§ Future Enhancements
 
 ```
 
 - [ ] Backend API integration
 
-## 🐛 Known Issues- [ ] Real-time inventory updates
+## ðŸ› Known Issues- [ ] Real-time inventory updates
 
 - [ ] Online shopping cart
 
-None! All features tested and working ✅- [ ] Payment processing
+None! All features tested and working âœ…- [ ] Payment processing
 
 - [ ] Push notifications
 
-## 📝 License- [ ] Mobile app version
+## ðŸ“ License- [ ] Mobile app version
 
 - [ ] AR/VR virtual tour
 
@@ -708,32 +708,32 @@ MIT License- [ ] AI-powered recommendations
 
 - [ ] Multi-language support
 
-## 👨‍💻 Author- [ ] Dark mode toggle
+## ðŸ‘¨â€ðŸ’» Author- [ ] Dark mode toggle
 
 
 
-Rahul Mahato - [@Rxhulmxhxto29](https://github.com/Rxhulmxhxto29)## 📄 Browser Support
+Rahul Mahato - [@Rxhulmxhxto29](https://github.com/Rxhulmxhxto29)## ðŸ“„ Browser Support
 
 
 
----- ✅ Chrome (latest)
+---- âœ… Chrome (latest)
 
-- ✅ Firefox (latest)
+- âœ… Firefox (latest)
 
-Made with ❤️ for NOVA9 Shopping Mall- ✅ Safari (latest)
+Made with â¤ï¸ for NOVA9 Shopping Mall- âœ… Safari (latest)
 
-- ✅ Edge (latest)
-- ✅ Opera (latest)
+- âœ… Edge (latest)
+- âœ… Opera (latest)
 
-## 📝 License
+## ðŸ“ License
 
 This project is created for demonstration purposes. Feel free to use and modify as needed.
 
-## 🤝 Contributing
+## ðŸ¤ Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-## 👨‍💻 Developer Notes
+## ðŸ‘¨â€ðŸ’» Developer Notes
 
 - All images are placeholders from Unsplash
 - Video is from Mixkit (free stock footage)
@@ -741,7 +741,7 @@ Contributions, issues, and feature requests are welcome!
 - No dependencies required (pure HTML/CSS/JS)
 - Optimized for performance and accessibility
 
-## 🎉 Credits
+## ðŸŽ‰ Credits
 
 - **Design**: Luxury shopping mall aesthetic
 - **Icons**: Font Awesome
@@ -751,6 +751,7 @@ Contributions, issues, and feature requests are welcome!
 
 ---
 
-**NOVA9** - A New Universe of Style ✨
+**NOVA9** - A New Universe of Style âœ¨
 
 For support or inquiries, contact: info@nova9.com
+
