@@ -1,54 +1,106 @@
-﻿# 🛍️ NOVA9 Shopping Mall# ðŸ›ï¸ NOVA9 Shopping Mall# ðŸ›ï¸ NOVA9 Shopping Mall# ðŸ›ï¸ NOVA9 - A New Universe of Style
+﻿# NOVA9 Shopping Mall# 🛍️ NOVA9 Shopping Mall# ðŸ›ï¸ NOVA9 Shopping Mall# ðŸ›ï¸ NOVA9 Shopping Mall# ðŸ›ï¸ NOVA9 - A New Universe of Style
 
 
 
-A fully interactive, modern shopping mall website with a complete admin dashboard and backend integration built using HTML, CSS, JavaScript, Node.js, Express, and SQLite.
+A fully interactive shopping mall website with complete admin dashboard and backend integration.
 
 
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-orange?style=for-the-badge)](https://nova9-shopping-mall-787trxhqk-rahul-mahatos-projects-09d62ac7.vercel.app)A fully interactive shopping mall website with complete admin dashboard and backend integration.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/Rxhulmxhxto29/shopping-mall-NOVA9-)
-
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+## Live DemoA fully interactive, modern shopping mall website with a complete admin dashboard and backend integration built using HTML, CSS, JavaScript, Node.js, Express, and SQLite.
 
 
 
----[![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)](https://github.com/Rxhulmxhxto29/shopping-mall-NOVA9-)A fully interactive shopping mall website with complete admin dashboard and backend integration.A fully interactive, modern, and aesthetically pleasing frontend website for a luxury shopping mall, designed to provide an exceptional customer experience.
+https://nova9-shopping-mall-787trxhqk-rahul-mahatos-projects-09d62ac7.vercel.app
 
 
 
-## 🌐 Live Demo[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
+## Features[![Live Demo](https://img.shields.io/badge/Live-Demo-orange?style=for-the-badge)](https://nova9-shopping-mall-787trxhqk-rahul-mahatos-projects-09d62ac7.vercel.app)A fully interactive shopping mall website with complete admin dashboard and backend integration.
 
 
 
-**Visit the live website:** [https://nova9-shopping-mall-787trxhqk-rahul-mahatos-projects-09d62ac7.vercel.app](https://nova9-shopping-mall-787trxhqk-rahul-mahatos-projects-09d62ac7.vercel.app)[![Live Demo](https://img.shields.io/badge/Live-Demo-orange)](https://nova9-shopping-mall-787trxhqk-rahul-mahatos-projects-09d62ac7.vercel.app)
+- Interactive shopping mall website[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/Rxhulmxhxto29/shopping-mall-NOVA9-)
+
+- Admin dashboard with customer management
+
+- User authentication and profiles[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+
+- Shopping cart and live chatbot
+
+- Reports and analytics
 
 
+
+## Tech Stack---[![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)](https://github.com/Rxhulmxhxto29/shopping-mall-NOVA9-)A fully interactive shopping mall website with complete admin dashboard and backend integration.A fully interactive, modern, and aesthetically pleasing frontend website for a luxury shopping mall, designed to provide an exceptional customer experience.
+
+
+
+Frontend: HTML, CSS, JavaScript  
+
+Backend: Node.js, Express, SQLite  
+
+Deployment: Vercel## 🌐 Live Demo[![License](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
+
+
+
+## Installation
+
+
+
+```bash**Visit the live website:** [https://nova9-shopping-mall-787trxhqk-rahul-mahatos-projects-09d62ac7.vercel.app](https://nova9-shopping-mall-787trxhqk-rahul-mahatos-projects-09d62ac7.vercel.app)[![Live Demo](https://img.shields.io/badge/Live-Demo-orange)](https://nova9-shopping-mall-787trxhqk-rahul-mahatos-projects-09d62ac7.vercel.app)
+
+# Clone repository
+
+git clone https://github.com/Rxhulmxhxto29/shopping-mall-NOVA9-.git
+
+cd shopping-mall-NOVA9-
 
 > The frontend is fully deployed and accessible! Backend features (login, database) require local setup or backend deployment.
 
+# Install backend dependencies
 
+cd backend
+
+npm install
 
 ---## ðŸš€ Live Demo![NOVA9 Shopping Mall](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)## âœ¨ Features
 
+# Create .env file with:
+
+# PORT=5000
+
+# JWT_SECRET=your-secret-key
+
+# DB_PATH=./nova9_mall.db## ✨ Features
 
 
-## ✨ Features
 
+# Start backend
 
+node server.js
 
 ### 🎨 Frontend Features**ðŸŒ Visit Live Site:** [https://nova9-shopping-mall-787trxhqk-rahul-mahatos-projects-09d62ac7.vercel.app](https://nova9-shopping-mall-787trxhqk-rahul-mahatos-projects-09d62ac7.vercel.app)![License](https://img.shields.io/badge/License-MIT-blue)
 
+# Start frontend (new terminal)
 
+python -m http.server 8080
+
+```
 
 - **Modern UI/UX Design**
 
+## Author
+
   - Beautiful light blue (#4fc3f7) theme
+
+Rahul Mahato - [@Rxhulmxhxto29](https://github.com/Rxhulmxhxto29)
 
   - Smooth animations and transitions> **Note:** Once deployed, the link above will take you directly to the live website!### ðŸ  Home Page
 
+## License
+
   - Fully responsive layout for all devices
+
+MIT
 
   
 
