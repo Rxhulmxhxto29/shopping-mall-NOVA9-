@@ -1,0 +1,15 @@
+# Render Deployment Configuration for NOVA9 Backend
+
+# Build Command
+npm install
+
+# Start Command
+node server.js
+
+# Environment Variables (Set these in Render Dashboard):
+# PORT=5000
+# JWT_SECRET=<generate-random-secret>
+# DB_PATH=./nova9_mall.db
+
+# Health Check Path
+# /api/health
